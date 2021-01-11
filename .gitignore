@@ -52,3 +52,9 @@ coverage.xml
 venv
 db.sqlite3
 .idea
+
+# eclipse project settings
+.project
+.pydevproject
+.settings
+.metadata
